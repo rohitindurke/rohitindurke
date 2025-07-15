@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitindurke
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Small project
 - 📫 How to reach me rohitindurke@outlook.com
 - ⚡ Fun fact: cats can indeed swim.
 
